@@ -5,13 +5,7 @@
 package EmployeeSearch.com.example.practice4.lambda;
 
 /**
- *
- * @author Conrad
+ * @author MikeW
  */
-public class Main {
+public enum Gender { MALE, FEMALE }
 
-  public static void main(String[] args) {
-    
-    BiPredicateTest.main(args);
-  }
-}
