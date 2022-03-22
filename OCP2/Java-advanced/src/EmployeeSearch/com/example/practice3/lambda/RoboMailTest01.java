@@ -24,5 +24,6 @@ public class RoboMailTest01 {
         .filter(p -> p.getAge() >= 50)
         .filter(p -> p.getDept().equals("Sales"))
         .forEach(p -> robo.roboMail(p));
+        
   }
 }
