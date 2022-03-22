@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Java-advanced">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Java-advanced.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
