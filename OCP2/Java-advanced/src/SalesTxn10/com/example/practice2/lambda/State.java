@@ -5,13 +5,21 @@
 package SalesTxn10.com.example.practice2.lambda;
 /**
  *
- * @author MikeW
+ * @author oracle
  */
-public class Main {
-
-  public static void main(String[] args) {
+public enum State {    
+    CA("CA"),
+    CO("CO"),
+    MA("MA");
     
-      LazyTest.main(args);
-      
-  }
+    private final String str;
+    
+    State(String stateStr){
+        this.str = stateStr;
+    }
+    
+    public String getStr(){
+        return str;
+    }        
+   
 }
