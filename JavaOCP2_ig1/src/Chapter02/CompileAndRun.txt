@@ -1,0 +1,11 @@
+/* Compile :
+    javac -cp <path to other classes> -d <compiler output path> <path to source> .java
+
+    Example: 'javac Main.java' compile.
+*/
+
+/* Run :
+    java -cp <path to other classes> <package name>.<classname>
+
+    Example: 'java Main' runs the code.
+*/
