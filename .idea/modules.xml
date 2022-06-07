@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaOCP2.iml" filepath="$PROJECT_DIR$/JavaOCP2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaOCP2_All.In.One/JavaOCP2_All.In.One.iml" filepath="$PROJECT_DIR$/JavaOCP2_All.In.One/JavaOCP2_All.In.One.iml" />
     </modules>
   </component>
 </project>
