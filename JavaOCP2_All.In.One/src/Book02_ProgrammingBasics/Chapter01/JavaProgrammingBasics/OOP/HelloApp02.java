@@ -3,7 +3,7 @@
 // Greeter class and then calling the Greeter
 // object's sayHello method.
 
-package Book02_ProgrammingBasics.Chapter01.OOP;
+package Book02_ProgrammingBasics.Chapter01.JavaProgrammingBasics.OOP;
 
 public class HelloApp02 {
     public static void main(String[] args) {

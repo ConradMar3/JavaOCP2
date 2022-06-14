@@ -1,4 +1,4 @@
-package Book02_ProgrammingBasics.Chapter01.Statements;
+package Book02_ProgrammingBasics.Chapter01.JavaProgrammingBasics.Statements;
 
 public class DeclarationStatement {
     public static void main(String[] args) {

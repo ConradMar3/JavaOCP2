@@ -2,7 +2,7 @@
 // that displays a hello message
 // in a dialog box.
 
-package Book02_ProgrammingBasics.Chapter01.OOP;
+package Book02_ProgrammingBasics.Chapter01.JavaProgrammingBasics.OOP;
 
 import javax.swing.JOptionPane;
 
