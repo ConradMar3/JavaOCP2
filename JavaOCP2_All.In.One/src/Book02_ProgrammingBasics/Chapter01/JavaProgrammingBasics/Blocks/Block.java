@@ -1,4 +1,4 @@
-package Book02_ProgrammingBasics.Chapter01.Blocks;
+package Book02_ProgrammingBasics.Chapter01.JavaProgrammingBasics.Blocks;
 
 public class Block {
     public static void main(String[] args) {

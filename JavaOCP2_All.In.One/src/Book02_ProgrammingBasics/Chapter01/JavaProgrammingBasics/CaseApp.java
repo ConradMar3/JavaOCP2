@@ -1,4 +1,4 @@
-package Book02_ProgrammingBasics.Chapter01;
+package Book02_ProgrammingBasics.Chapter01.JavaProgrammingBasics;
 
 public class CaseApp {
     public static void main(String[] args) {
