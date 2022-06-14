@@ -7,7 +7,6 @@ package Polymorphism.com.example.domain.example.practice1;
 
 import Polymorphism.com.example.domain.practice1.Admin;
 import Polymorphism.com.example.domain.practice1.Director;
-import Polymorphism.com.example.domain.practice1.Employee;
 import Polymorphism.com.example.domain.practice1.Engineer;
 import Polymorphism.com.example.domain.practice1.Manager;
 

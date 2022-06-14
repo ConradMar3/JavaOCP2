@@ -2,8 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Java.All-in-one" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/JavaOCP2" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/JavaOCP2/JavaOCP2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JavaOCP2_Soccer.App/JavaOCP2_Soccer.App" vcs="Git" />
   </component>
 </project>

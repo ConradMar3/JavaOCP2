@@ -4,9 +4,6 @@
  */
 package EmployeeSearch.com.example.practice1.lambda;
 
-import java.util.List;
-import java.util.function.Predicate;
-
 /**
  *
  * @author Conrad

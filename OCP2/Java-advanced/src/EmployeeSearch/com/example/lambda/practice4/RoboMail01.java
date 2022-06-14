@@ -3,8 +3,6 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package EmployeeSearch.com.example.lambda.practice4;
-import java.util.List;
-import java.util.function.Predicate;
 
 /**
  *

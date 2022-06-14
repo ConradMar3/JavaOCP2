@@ -5,7 +5,6 @@
 package EmployeeSearch.com.example.practice3.lambda;
 
 import java.util.List;
-import java.util.function.Predicate;
 
 /**
  * @author Oracle

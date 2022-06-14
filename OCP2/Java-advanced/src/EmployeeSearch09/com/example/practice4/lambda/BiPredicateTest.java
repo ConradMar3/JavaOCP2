@@ -4,7 +4,6 @@
  */
 package EmployeeSearch09.com.example.practice4.lambda;
 
-import java.time.LocalDate;
 import java.util.List;
 import java.util.function.BiPredicate;
 
