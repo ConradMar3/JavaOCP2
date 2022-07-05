@@ -1,4 +1,4 @@
-package Book1_WelcomeToJava.JavaCommandLine;
+package Book1_WelcomeToJava.Chapter02.JavaCommandLine;
 
 public class HelloAppCompile {
     public static void main(String[] args) {

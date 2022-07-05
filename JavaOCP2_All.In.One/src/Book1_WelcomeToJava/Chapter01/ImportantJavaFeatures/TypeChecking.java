@@ -1,4 +1,4 @@
-package Book1_WelcomeToJava.ImportantJavaFeatures;
+package Book1_WelcomeToJava.Chapter01.ImportantJavaFeatures;
 
 public class TypeChecking {
     //Pearl Example of Type Checking:

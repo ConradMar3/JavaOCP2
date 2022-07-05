@@ -1,4 +1,4 @@
-package Book1_WelcomeToJava.JavaVersusOtherLanguages;
+package Book1_WelcomeToJava.Chapter01.JavaVersusOtherLanguages;
 
 public class JavaVersusC {
     // This is C or C++ printing "Hello, World!"
