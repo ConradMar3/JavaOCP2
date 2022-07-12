@@ -1,7 +1,15 @@
 package Book1_WelcomeToJava.Chapter02.JavaCommandLine;
 
+/**
+ * The type Hello app compile.
+ */
 public class HelloAppCompile {
-    public static void main(String[] args) {
+    /**
+     * The entry point of application.
+     *
+     * @param args the input arguments
+     */
+public static void main(String[] args) {
         System.out.println("Compiling Java.");
     }
 }
