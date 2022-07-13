@@ -1,4 +1,4 @@
-package Book03_ObjectOrientatedProgramming.UnderstandingOOP.ObjectsHaveState;
+package Book03_ObjectOrientatedProgramming.Chapter01.UnderstandingOOP.UnderstandingOOP.ObjectsHaveState;
 
 public class ExampleState {
     public static void main(String[] args) {

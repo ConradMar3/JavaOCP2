@@ -1,4 +1,4 @@
-package Book03_ObjectOrientatedProgramming.UnderstandingOOP.ObjectsHaveType;
+package Book03_ObjectOrientatedProgramming.Chapter01.UnderstandingOOP.UnderstandingOOP.ObjectsHaveType;
 /*
 public class ExampleOfType {
     public static void main(String[] args) {
