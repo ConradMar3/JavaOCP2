@@ -12,5 +12,6 @@ public class ComparingStrings {
         //Input case is ignored, could also be "END" or "End":
         if (input.equalsIgnoreCase("end"));
         // end the program
+        System.out.println(input + " " + answer);
     }
 }
