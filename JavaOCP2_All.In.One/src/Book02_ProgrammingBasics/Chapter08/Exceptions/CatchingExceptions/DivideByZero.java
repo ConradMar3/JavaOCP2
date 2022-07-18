@@ -6,7 +6,7 @@ public class DivideByZero {
         int b = 0; // you know this won't work
         try {
             int c = a / b; // but you try it anyway
-        } catch (ArithmeticException e) {
+        } catch (ArithmeticException c) {
             System.out.println("Oops, you can't "
                     + "divide by zero.");
         }
