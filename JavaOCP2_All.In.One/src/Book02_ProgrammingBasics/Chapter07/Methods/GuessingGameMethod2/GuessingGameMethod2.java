@@ -24,7 +24,7 @@ public class GuessingGameMethod2 {
                 + "between 1 and 10.");
         System.out.print("What do you think it is? ");
         guess = getGuess();
-// Check the guess
+        // Check the guess
         if (guess == number)
             System.out.println("You're right!");
         else

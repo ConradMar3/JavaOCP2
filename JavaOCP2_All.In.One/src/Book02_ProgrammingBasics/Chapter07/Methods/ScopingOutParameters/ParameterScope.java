@@ -2,8 +2,8 @@ package Book02_ProgrammingBasics.Chapter07.Methods.ScopingOutParameters;
 
 public class ParameterScope {
     public static void main(String[] args) {
-        int min = 1;
-        int max = 10;
+        int min = 10;
+        int max = 100;
         int number = getRandomNumber(min, max);
         System.out.println(number);
     }

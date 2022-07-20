@@ -2,7 +2,7 @@ package Book02_ProgrammingBasics.Chapter07.Methods.DeclaringParameters;
 
 public class DeclaringParameters {
     public static void main(String[] args) {
-        int number = getRandomNumber(1, 10);
+        int number = getRandomNumber(10, 100);
         System.out.println("Number is: " + number);
     }
 
