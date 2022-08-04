@@ -1,4 +1,4 @@
-package Book02_ProgrammingBasics.Chapter03.NumbersAndExpressions.ArithmeticOperators.VariablesAndDataTypes.InitializingVariables;
+package Book02_ProgrammingBasics.Chapter03.NumbersAndExpressions.ArithmeticOperators.VariablesAndDataTypes.Strings.InitializingVariables;
 
 public class VarsWithInitializers {
   public static void main(String[] args) {

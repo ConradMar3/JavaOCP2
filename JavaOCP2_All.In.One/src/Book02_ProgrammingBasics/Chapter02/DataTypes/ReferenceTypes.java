@@ -4,7 +4,7 @@ import Book02_ProgrammingBasics.Chapter03.NumbersAndExpressions.ArithmeticOperat
 
 public class ReferenceTypes {
     public static void main(String[] args) {
-        //Object:
+        //Person:
         Ball b1 = new Ball();
         Ball b2 = b1;
 

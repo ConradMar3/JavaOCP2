@@ -9,7 +9,7 @@ public class RunningJava {
      *
      * @param args the input arguments
      */
-public static void main(String[] args) {
+    public static void main(String[] args) {
         System.out.println("Running Java Apps after compiling.");
     }
 }

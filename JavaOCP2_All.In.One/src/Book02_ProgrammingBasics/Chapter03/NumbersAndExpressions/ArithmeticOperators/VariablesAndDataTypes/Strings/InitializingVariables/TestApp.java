@@ -1,4 +1,4 @@
-package Book02_ProgrammingBasics.Chapter03.NumbersAndExpressions.ArithmeticOperators.VariablesAndDataTypes.InitializingVariables;
+package Book02_ProgrammingBasics.Chapter03.NumbersAndExpressions.ArithmeticOperators.VariablesAndDataTypes.Strings.InitializingVariables;
 
 /* This code won't compile.
 

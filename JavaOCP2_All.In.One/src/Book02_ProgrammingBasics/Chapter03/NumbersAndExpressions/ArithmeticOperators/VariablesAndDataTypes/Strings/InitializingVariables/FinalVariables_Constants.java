@@ -1,4 +1,4 @@
-package Book02_ProgrammingBasics.Chapter03.NumbersAndExpressions.ArithmeticOperators.VariablesAndDataTypes.InitializingVariables;
+package Book02_ProgrammingBasics.Chapter03.NumbersAndExpressions.ArithmeticOperators.VariablesAndDataTypes.Strings.InitializingVariables;
 
 // A final variable, also called a constant, is a variable whose value you can’t change
 // after it’s been initialized.
