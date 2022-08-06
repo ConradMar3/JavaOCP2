@@ -1,4 +1,4 @@
-package Book03_ObjectOrientatedProgramming.Chapter06.EqualsMethod.ComparingObjects;
+package Book03_ObjectOrientatedProgramming.Chapter06.EqualsMethod_page322.ComparingObjects;
 
 public class TestEquality2 {
     public static void main(String[] args) {

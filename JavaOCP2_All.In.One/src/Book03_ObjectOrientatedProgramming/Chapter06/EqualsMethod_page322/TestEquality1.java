@@ -1,4 +1,4 @@
-package Book03_ObjectOrientatedProgramming.Chapter06.EqualsMethod;
+package Book03_ObjectOrientatedProgramming.Chapter06.EqualsMethod_page322;
 
 public class TestEquality1 {
     public static void main(String[] args)

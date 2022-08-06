@@ -1,4 +1,4 @@
-package Book03_ObjectOrientatedProgramming.Chapter06.EqualsMethod.UsingEquals;
+package Book03_ObjectOrientatedProgramming.Chapter06.EqualsMethod_page322.UsingEquals;
 
 /*
 To test objects using the equals' method rather than the equality operator, you
