@@ -1,4 +1,4 @@
-package Book03_ObjectOrientatedProgramming.Chapter06.CloneMethod_page328.Basics;
+package Book03_ObjectOrientatedProgramming.Chapter06.CloneMethod_page328.Basics_page329;
 
 public class CloneMethod {
     public static void main(String[] args) {
