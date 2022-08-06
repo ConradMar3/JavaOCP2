@@ -1,4 +1,4 @@
-package Book03_ObjectOrientatedProgramming.Chapter06.ToStringMethod.OverridingToString;
+package Book03_ObjectOrientatedProgramming.Chapter06.PrimitivesAreNotObjects.ToStringMethod.UsingToString;
 
 public class TestToString2 {
     public static void main(String[] args) {

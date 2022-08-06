@@ -1,5 +1,3 @@
-package Book03_ObjectOrientatedProgramming.Chapter06.EqualsMethod.OverridingEqualsMethod;
-
 /*
 You can override the equals' method so that objects can be compared based on
 their values. At the surface, you might think this is easy to do. You could be
@@ -37,7 +35,44 @@ equals' method, you must ensure that the equals' method meets five specific cond
 NOTE: 4 -> The consistency rule basically means that you return consistent results.
            As long as you don’t throw a call to Math.random into the comparison,
            that shouldn't be a problem.
- */
+*/
 
-public class TestEquality3 {
-}
+/*
+Explained:
+
+1. Test the reflexive rule:
+
+       if (this == obj)
+        return true;
+
+   In other words, if someone is silly enough to see whether an object is equal to
+   itself, it returns true.
+
+2. Test the non-null rule:
+
+        if (this == null)
+         return false;
+
+   Null isn’t equal to anything.
+
+3. Test that obj is of the same type as this:
+
+        if (this.getClass() != obj.getClass())
+         return false;
+
+    The two objects can’t possibly be the same if they aren’t of the same type. (It
+    may not be apparent at first, but this test is required to fulfill the symmetry
+    rule — that if x equals y, y must also equal x.)
+
+4. Cast obj to a variable of your class; then compare the fields you want to
+   base the return value on, and return the result:
+
+        Employee emp = (Employee) obj;
+        return this.lastName.equals(emp.getLastName())
+         && this.firstname.equals(emp.getFirstName());
+
+     Notice that the field comparisons for the String values use the equals' method
+     rather than ==. This is because you can’t trust == to compare strings. If you
+     need to compare primitive types, you can use ==. But you should use equals
+     to compare strings and any other reference types.
+*/
