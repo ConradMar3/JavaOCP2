@@ -8,11 +8,11 @@ public class TestToString2 {
     }
 }
 
-class Employee {
+class Employee2 {
     private String lastName;
     private String firstName;
 
-    public Employee(String lastName, String firstName) {
+    public Employee2(String lastName, String firstName) {
         this.lastName = lastName;
         this.firstName = firstName;
     }
