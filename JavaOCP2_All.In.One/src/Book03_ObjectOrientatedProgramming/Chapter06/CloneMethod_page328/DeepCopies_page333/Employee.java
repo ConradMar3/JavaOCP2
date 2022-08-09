@@ -3,7 +3,7 @@ package Book03_ObjectOrientatedProgramming.Chapter06.CloneMethod_page328.DeepCop
 //Example:
 
 /*
-public class Employee {
+public class Employee5 {
     public Address address;
     // other fields and methods omitted
 }

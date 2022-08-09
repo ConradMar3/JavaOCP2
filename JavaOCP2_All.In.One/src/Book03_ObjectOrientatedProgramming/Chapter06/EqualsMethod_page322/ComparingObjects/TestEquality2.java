@@ -43,7 +43,7 @@ class Employee {
         // objects of different types are never equal
         if (this.getClass() != obj.getClass())
             return false;
-        // cast to an Employee, then compare the fields
+        // cast to an Employee5, then compare the fields
         Employee emp = (Employee) obj;
         return this.lastName.equals(emp.getLastName())
                 && this.firstName.equals(emp.getFirstName());

@@ -35,7 +35,7 @@ public class CloneTest2 {
     }
 }
 
-//The Employee class. Notice that this class implements Cloneable.
+//The Employee5 class. Notice that this class implements Cloneable.
 class Employee implements Cloneable {
     private String lastName;
     private String firstName;
@@ -73,18 +73,18 @@ class Employee implements Cloneable {
         this.salary = salary;
     }
 
-//The clone method in the Employee class.
+//The clone method in the Employee5 class.
     public Object clone() {
         Employee emp;
         try {
-            emp = (Employee) super.clone(); //Creates a shallow copy of the Employee object.
+            emp = (Employee) super.clone(); //Creates a shallow copy of the Employee5 object.
             emp.address = (Address) address.clone();
             /*Creates a shallow copy of the Address object and assigns it to the
-            address field of the cloned Employee object.*/
+            address field of the cloned Employee5 object.*/
         } catch (CloneNotSupportedException e) {
             return null; // will never happen
         }
-        return emp; //Returns the cloned Employee object.
+        return emp; //Returns the cloned Employee5 object.
     }
     /*
     Catches CloneNotSupportedException, which won’t ever happen

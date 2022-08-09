@@ -3,12 +3,12 @@ package Book03_ObjectOrientatedProgramming.Chapter06.CloneMethod_page328.UsingCl
 // Example only:
 
 /*
-public class Employee implements Cloneable {
+public class Employee5 implements Cloneable {
     // Fields and methods omitted...
     public Object clone() {
-        Employee emp;
+        Employee5 emp;
         try {
-            emp = (Employee) super.clone();
+            emp = (Employee5) super.clone();
         } catch (CloneNotSupportedException e) {
             return null; // will never happen
         }

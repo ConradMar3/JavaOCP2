@@ -2,7 +2,7 @@ package Book03_ObjectOrientatedProgramming.Chapter04.DeterminingObjectType;
 
 public class Employee {
     public static void main(String[] args) {
-       // Employee emp = getEmployee();
+       // Employee5 emp = getEmployee();
         Employee emp1 = new SalariedEmployee();
         Employee emp2 = new HourlyEmployee();
         String msg;
