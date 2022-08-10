@@ -10,13 +10,11 @@ To add an archive to the ClassPath variable, just add the complete path to the
 archive, making sure to separate it from any other paths already in the ClassPath
 with a semicolon. Here’s an example:
 
-> .;c:\javaclasses\utils.jar;c:\javaclasses
 
-Here I added the path c:\javaclasses\utils.jar to my ClassPath variable.
+
+Here I added the path  to my ClassPath variable.
 Starting with Java 1.6, you can add all the jar files from a particular directory to
-the ClassPath in one fell swoop. For example, imagine that your c:\javaclasses
+the ClassPath in one fell swoop. For example, imagine that your
 directory contains two jar files — utils.jar and extras.jar. To add both jar
 files to the ClassPath, use a forward slash (/) followed by an asterisk:
-
-> .;c:\javaclasses/*
  */
