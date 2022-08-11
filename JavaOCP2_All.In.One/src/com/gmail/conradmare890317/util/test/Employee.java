@@ -9,7 +9,7 @@ package com.gmail.conradmare890317.util.test;
  * @version 1.0
  * @since 2022/08/09
  */
-public class Employee {
+/*public class Employee {
     private String lastName;
     private String firstName;
     private Double salary;
@@ -20,7 +20,7 @@ public class Employee {
         /**
          * Represents the employee's address.
          */
-        Address address;
+/*       Address address;
 
         /**
          * Creates an employee with the specified name.
@@ -28,7 +28,7 @@ public class Employee {
          * @param lastName  The employee's last name.
          * @param firstName The employee's first name.
          */
-        Employee(String lastName, String firstName) {
+/*        Employee(String lastName, String firstName) {
             this.lastName = lastName;
             this.firstName = firstName;
             this.address = new Address();
@@ -40,7 +40,7 @@ public class Employee {
          * @return A string representing the employee's last
          * name.
          */
-        public String getLastName () {
+/*        public String getLastName () {
             return this.lastName;
         }
 
@@ -50,7 +50,7 @@ public class Employee {
          * @param lastName A String containing the employee's
          *                 last name.
          */
-        public void setLastName (String lastName){
+/*        public void setLastName (String lastName){
             this.lastName = lastName;
         }
 
@@ -60,7 +60,7 @@ public class Employee {
          * @return A string representing the employee's first
          * name.
          */
-        public String getFirstName () {
+/*        public String getFirstName () {
             return this.firstName;
         }
 
@@ -70,7 +70,7 @@ public class Employee {
          * @param firstName A String containing the
          *                  employee's first name.
          */
-        public void setFirstName (String firstName){
+/*        public void setFirstName (String firstName){
             this.firstName = firstName;
         }
 
@@ -79,7 +79,7 @@ public class Employee {
          *
          * @return A double representing the employee's salary.
          */
-        public double getSalary () {
+/*        public double getSalary () {
             return this.salary;
         }
 
@@ -89,7 +89,7 @@ public class Employee {
          * @param salary A double containing the employee's
          *               salary.
          */
-        public void setSalary ( double salary){
+/*        public void setSalary ( double salary){
             this.salary = salary;
         }
     }
@@ -114,6 +114,6 @@ public class Employee {
     }
 }
 
-
+*/
 
 
