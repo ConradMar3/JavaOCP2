@@ -1,4 +1,4 @@
-package Book03_ObjectOrientatedProgramming.Chapter03.Chapter07.UsingAnonymousInnerClasses_page347.CreatingAnAnonymousClass;
+package Book03_ObjectOrientatedProgramming.Chapter07.UsingAnonymousInnerClasses_page347.CreatingAnAnonymousClass;
 
 /*
 The basic form for declaring and instantiating an anonymous class is this:

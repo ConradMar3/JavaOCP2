@@ -1,4 +1,4 @@
-package Book03_ObjectOrientatedProgramming.Chapter03.Chapter07.UsingAnonymousInnerClasses_page347.ProgramWithAnonClass;
+package Book03_ObjectOrientatedProgramming.Chapter07.UsingAnonymousInnerClasses_page347.ProgramWithAnonClass;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

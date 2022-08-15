@@ -1,4 +1,4 @@
-package Book03_ObjectOrientatedProgramming.Chapter03.Chapter07.ViewingAnExample_page343;
+package Book03_ObjectOrientatedProgramming.Chapter07.ViewingAnExample_page343;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

@@ -1,4 +1,4 @@
-package Book03_ObjectOrientatedProgramming.Chapter03.Chapter07.UsingLambdaExpresssions_page351;
+package Book03_ObjectOrientatedProgramming.Chapter07.UsingLambdaExpresssions_page351;
 
 public class LambdaBall {
     public static void main(String[] args) {

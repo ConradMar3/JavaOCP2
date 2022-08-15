@@ -1,4 +1,4 @@
-package Book03_ObjectOrientatedProgramming.Chapter03.Chapter07.UsingStaticInnerClasses_page345;
+package Book03_ObjectOrientatedProgramming.Chapter07.UsingStaticInnerClasses_page345;
 
 //A static inner class is similar to an inner class but doesn't require an instance of the outer class.
 

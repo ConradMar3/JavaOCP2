@@ -1,4 +1,4 @@
-package Book03_ObjectOrientatedProgramming.Chapter03.Chapter07.TickTockWithStaticInner_page346;
+package Book03_ObjectOrientatedProgramming.Chapter07.TickTockWithStaticInner_page346;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

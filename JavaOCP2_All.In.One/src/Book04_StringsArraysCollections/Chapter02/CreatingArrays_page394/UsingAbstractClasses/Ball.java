@@ -1,4 +1,4 @@
-package Book03_ObjectOrientatedProgramming.Chapter05.UsingAbstractClasses;
+package Book04_StringsArraysCollections.Chapter02.CreatingArrays_page394.UsingAbstractClasses;
 
 public abstract class Ball {
     public abstract int hit(int batSpeed);

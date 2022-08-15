@@ -1,4 +1,4 @@
-package Book03_ObjectOrientatedProgramming.Chapter03.Chapter07.DeclaringInnerClasses_page342;
+package Book03_ObjectOrientatedProgramming.Chapter07.DeclaringInnerClasses_page342;
 /*
 public class InnerClass {
     public static void main(String[] args) {
