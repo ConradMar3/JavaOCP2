@@ -1,4 +1,4 @@
-package Book04_StringsArraysCollections.Chapter02.SolvingHomeworkProblems_page397;
+package Book1_WelcomeToJava.Chapter02.SolvingHomeworkProblems_page397;
 
 
 /*

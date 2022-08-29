@@ -1,4 +1,4 @@
-package Book04_StringsArraysCollections.Chapter02.UsingForLoopsWithArrays_page396;
+package Book1_WelcomeToJava.Chapter02.UsingForLoopsWithArrays_page396;
 
 import java.util.Scanner;
 

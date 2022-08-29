@@ -1,4 +1,4 @@
-package Book04_StringsArraysCollections.Chapter02.CopyingAnArray_page417;
+package Book1_WelcomeToJava.Chapter02.CopyingAnArray_page417;
 
 import java.util.Arrays;
 

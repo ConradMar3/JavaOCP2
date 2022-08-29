@@ -1,4 +1,4 @@
-package Book04_StringsArraysCollections.Chapter02.SearchingAnArray_page419;
+package Book1_WelcomeToJava.Chapter02.SearchingAnArray_page419;
 
 import java.util.Arrays;
 

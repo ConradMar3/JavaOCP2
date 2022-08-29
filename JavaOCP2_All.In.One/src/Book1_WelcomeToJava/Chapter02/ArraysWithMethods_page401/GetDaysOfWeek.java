@@ -1,4 +1,4 @@
-package Book04_StringsArraysCollections.Chapter02.ArraysWithMethods_page401;
+package Book1_WelcomeToJava.Chapter02.ArraysWithMethods_page401;
 
 public class GetDaysOfWeek {
     public static String[] getDaysOfWeek() {

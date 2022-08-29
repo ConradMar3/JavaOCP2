@@ -1,8 +1,6 @@
-package Book04_StringsArraysCollections.Chapter02.Chess_page408;
+package Book1_WelcomeToJava.Chapter02.Chess_page408;
 
 import java.util.Scanner;
-
-import static Book04_StringsArraysCollections.Chapter02.Chess_page408.ShowKnightMoves.convertSquareToPos;
 
 public class Chess {
         static Scanner sc = new Scanner(System.in);
@@ -47,7 +45,7 @@ public class Chess {
                 do {
                         System.out.print("Enter knight's position: ");
                         kSquare = sc.nextLine();
-                        kPos = convertSquareToPos(kSquare);
+                        kPos = ShowKnightMoves.convertSquareToPos(kSquare);
                 } while (kPos == null);
 
 
