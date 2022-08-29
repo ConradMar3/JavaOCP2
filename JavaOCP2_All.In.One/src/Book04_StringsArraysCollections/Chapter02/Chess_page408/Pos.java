@@ -1,4 +1,4 @@
-package Book1_WelcomeToJava.Chapter02.Chess_page408;
+package Book04_StringsArraysCollections.Chapter02.Chess_page408;
 
 public class Pos extends Chess {
     public int x;

@@ -1,4 +1,4 @@
-package Book1_WelcomeToJava.Chapter02.JaggedArrays_page405;
+package Book04_StringsArraysCollections.Chapter02.JaggedArrays_page405;
 
 public class JaggedArrays {
     public static void main(String[] args) {

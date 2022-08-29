@@ -1,4 +1,4 @@
-package Book1_WelcomeToJava.Chapter02.SortingArrays_page419;
+package Book04_StringsArraysCollections.Chapter02.SortingArrays_page419;
 
 import java.util.Arrays;
 

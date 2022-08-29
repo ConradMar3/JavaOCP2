@@ -1,4 +1,4 @@
-package Book1_WelcomeToJava.Chapter02.EnhancedForLoop_page400;
+package Book04_StringsArraysCollections.Chapter02.EnhancedForLoop_page400;
 
 public class Days {
     public static void main(String[] args) {

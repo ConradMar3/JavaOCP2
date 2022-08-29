@@ -1,4 +1,4 @@
-package Book1_WelcomeToJava.Chapter02.InitializingAnArray_page395;
+package Book04_StringsArraysCollections.Chapter02.InitializingAnArray_page395;
 
 
 public class DaysOfTheWeek {
