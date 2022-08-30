@@ -1,6 +1,7 @@
-package Book04_StringsArraysCollections.Chapter03.CreatingArrayListClass_page427.PrintingArrayList_pag430e;
+package Book04_StringsArraysCollections.Chapter03.Iterator_page430;
 
 import java.util.ArrayList;
+import java.util.Iterator;
 
 public class Signs {
     public static void main(String[] args) {
@@ -24,5 +25,19 @@ public class Signs {
         nums.add(2, "Two and a half");
 
         System.out.println(nums);
+
+        ArrayList<String> nums1 = new ArrayList<String>();
+        nums1.add("One");
+        nums1.add("Two");
+        nums1.add("Three");
+
+        nums1.add("Four");
+        String s;
+        Iterator e = nums1.iterator();
+        while (e.hasNext())
+        {
+            s = (String)e.next();
+            System.out.println(s);
+        }
     }
 }

@@ -1,6 +1,12 @@
 package Book03_ObjectOrientatedProgramming.Chapter06.ObjectAsType;
 
 public class Employee extends Person {
+    public Employee(String addams, String gomez) {
+
+    }
+
+    public void changeName(String robert) {
+    }
     /* If the Employee5 class has a method named
        setLastName, the following code doesn't work:
 
