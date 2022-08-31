@@ -5,6 +5,10 @@ public class Employee extends Person {
 
     }
 
+    public Employee() {
+
+    }
+
     public void changeName(String robert) {
     }
     /* If the Employee5 class has a method named

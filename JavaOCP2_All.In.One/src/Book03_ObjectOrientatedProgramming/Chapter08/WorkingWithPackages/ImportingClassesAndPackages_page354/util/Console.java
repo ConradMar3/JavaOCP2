@@ -1,4 +1,4 @@
-package com.gmail.conradmare890317.util;
+package Book03_ObjectOrientatedProgramming.Chapter08.WorkingWithPackages.ImportingClassesAndPackages_page354.util;
 
 import java.util.Scanner;
 public class Console
