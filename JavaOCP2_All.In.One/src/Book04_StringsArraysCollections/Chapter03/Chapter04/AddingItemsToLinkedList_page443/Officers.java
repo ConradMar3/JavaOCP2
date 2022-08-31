@@ -1,4 +1,4 @@
-package Book04_StringsArraysCollections.Chapter04.AddingItemsToLinkedList_page443;
+package Book04_StringsArraysCollections.Chapter03.Chapter04.AddingItemsToLinkedList_page443;
 
 import java.util.LinkedList;
 

@@ -1,4 +1,4 @@
-package Book04_StringsArraysCollections.Chapter04.RemovingLinkedListItems_page447;
+package Book04_StringsArraysCollections.Chapter03.Chapter04.RemovingLinkedListItems_page447;
 
 import java.util.LinkedList;
 
