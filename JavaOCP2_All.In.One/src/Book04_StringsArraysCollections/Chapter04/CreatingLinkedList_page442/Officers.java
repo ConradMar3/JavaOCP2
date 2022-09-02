@@ -1,4 +1,4 @@
-package Book04_StringsArraysCollections.Chapter03.Chapter04.CreatingLinkedList_page442;
+package Book04_StringsArraysCollections.Chapter04.CreatingLinkedList_page442;
 
 import java.util.LinkedList;
 
