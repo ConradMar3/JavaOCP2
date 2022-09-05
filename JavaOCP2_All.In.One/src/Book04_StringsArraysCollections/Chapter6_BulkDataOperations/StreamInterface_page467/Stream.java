@@ -13,6 +13,11 @@ public class Stream {
     contains the element under question. If the method returns true, the element is
     passed on to the result stream. If it returns false, the element is not passed on.
 
-
+    The easiest way to implement a filter predicate is to use a lambda expression that
+    specifies a conditional expression. For example, the following lambda expression
+    inspects the name field of the stream element and returns true if it begins with
+    the letter a (upper- or lowercase):
+    > s -> s.name.toLowerCase().startsWith("a");
+    
      */
 }
