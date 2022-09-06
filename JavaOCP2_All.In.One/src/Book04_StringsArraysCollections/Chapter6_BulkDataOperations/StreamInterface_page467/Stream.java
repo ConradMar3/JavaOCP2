@@ -18,6 +18,6 @@ public class Stream {
     inspects the name field of the stream element and returns true if it begins with
     the letter a (upper- or lowercase):
     > s -> s.name.toLowerCase().startsWith("a");
-    
+
      */
 }
