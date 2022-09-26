@@ -1,4 +1,4 @@
-package Book05_ProgrammingTechniques.Chapter01_RunnableInterface_page480;
+package Book05_ProgrammingTechniques.Chapter01_CountDownApp_page483;
 
 import java.util.ArrayList;
 
@@ -20,6 +20,11 @@ public class LaunchEvent extends Runnable {
         for (int i = 0; i < 3; i++) {
             new Thread(events.get(i)).start();
         }
+
+    }
+
+    @Override
+    public void run() {
 
     }
 }
