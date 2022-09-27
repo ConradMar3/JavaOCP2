@@ -2,7 +2,7 @@ package Book04_StringsArraysCollections.Chapter6_BulkDataOperations.BasicBulkDat
 
 import java.util.ArrayList;
 
-class Spell {
+public class Spell {
     public String name;
     public SpellType type;
     public String description;

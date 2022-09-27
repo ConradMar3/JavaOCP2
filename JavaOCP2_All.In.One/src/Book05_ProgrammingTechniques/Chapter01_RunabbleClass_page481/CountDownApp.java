@@ -1,4 +1,6 @@
-package Book05_ProgrammingTechniques.Chapter01_CountDownApp_page483;
+package Book05_ProgrammingTechniques.Chapter01_RunabbleClass_page481;
+
+import Book05_ProgrammingTechniques.Chapter01_CountDownApp_page483.CountDownClock;
 
 public class CountDownApp {
     public static void main(String[] args) {
@@ -8,8 +10,9 @@ public class CountDownApp {
         ignition = new LaunchEvent(6, "Start engines!");
         liftoff = new LaunchEvent(0, "Liftoff!");
         clock.start();
-        new Thread(flood).start();
-        new Thread(ignition).start();
-        new Thread(liftoff).start();
+        new Thread((java.lang.Runnable) flood).start();
+        new Thread((java.lang.Runnable) ignition).start();
+        new Thread((java.lang.Runnable) liftoff).start();
     }
 }
+
