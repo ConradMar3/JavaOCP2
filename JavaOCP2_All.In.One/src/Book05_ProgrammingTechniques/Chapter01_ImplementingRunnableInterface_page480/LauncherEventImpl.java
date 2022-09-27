@@ -1,0 +1,4 @@
+package Book05_ProgrammingTechniques.Chapter01_ImplementingRunnableInterface_page480;
+
+public class LauncherEventImpl extends LauncherEvent {
+}

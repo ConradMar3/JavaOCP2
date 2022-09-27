@@ -2,7 +2,7 @@
 <project version="4">
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="JavaOCP2_All.In.One" options="--add-exports java.base/sun.security.util=ALL-UNNAMED" />
+      <module name="JavaOCP2_All.In.One" options="--add-exports jdk.jfr/jdk.jfr.events=ALL-UNNAMED" />
     </option>
   </component>
 </project>

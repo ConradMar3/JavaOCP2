@@ -20,8 +20,8 @@ public class Spell {
         return name;
     }
 
-    public class Spells {
-        public void main(String[] args) {
+    public static class Spells {
+        public static void main(String[] args) {
 
             ArrayList<Spell> spells = new ArrayList<>();
             spells.add(new Spell("Aparecium", Spell.SpellType.SPELL, "Makes invisible ink appear."));
