@@ -2,7 +2,6 @@
   <library name="Java-advanced">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/OCP2/Java-advanced/dist/Java-advanced.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../../../Program Files/Java/jdk11.0.15_9" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

@@ -7,7 +7,5 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="org-netbeans-modules-java-j2seproject-copylibstask" level="project" />
-    <orderEntry type="library" name="Java-advanced" level="project" />
   </component>
 </module>
